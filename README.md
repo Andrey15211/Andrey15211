@@ -84,5 +84,5 @@ AI-инструменты ускоряют повторяющиеся проце
 
 ## 📬 Контакты
 
-- GitHub: [github.com/Andrey15211](https://github.com/Andrey15211)
+- Telegram: [github.com/Andrey15211](@andrey15211)
 - Portfolio: [andrey-portfolio-liard.vercel.app](https://andrey-portfolio-liard.vercel.app)
